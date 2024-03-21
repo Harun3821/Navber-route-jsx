@@ -1,0 +1,10 @@
+
+nav a {
+    margin-right: 20px;
+}
+
+.usgerCard{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
